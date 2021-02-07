@@ -12,8 +12,8 @@ logging.basicConfig(
 
 test_pdq8 = {
     "pid": 1, 
-    "ass_num": 0,
-    "ass_date": "01/01/2021",
+    "assessment_number": 0,
+    "assessment_date": "01/01/2021",
     "PDQ1": 0,
     "PDQ2": 1,
     "PDQ3": 2,
@@ -26,8 +26,8 @@ test_pdq8 = {
 
 bad_pdq8 = {
     "pid": 2, 
-    "ass_num": 0,
-    "ass_date": "01/01/2021",
+    "assessment_number": 0,
+    "assessment_date": "01/01/2021",
     "PDQ1": 0,
     "PDQ2": 1,
     "PDQ33": 2,
